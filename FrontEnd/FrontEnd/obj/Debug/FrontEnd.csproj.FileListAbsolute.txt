@@ -1,0 +1,22 @@
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\obj\Debug\FrontEnd.Form1.resources
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\bin\Debug\FrontEnd.exe.config
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\bin\Debug\FrontEnd.exe
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\bin\Debug\FrontEnd.pdb
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\obj\Debug\FrontEnd.exe
+c:\users\user\desktop\Projects\FrontEnd\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\user\Desktop\Projects\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\obj\Debug\FrontEnd.Form1.resources
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\user\Desktop\Desktop\University Directory\project\UI & WEBSERVICES\FrontEnd\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
